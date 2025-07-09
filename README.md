@@ -36,6 +36,10 @@ Netmiko aims to accomplish both of these operations and to do it across a very b
 
 - [Netmiko Examples](https://github.com/ktbyers/netmiko/blob/develop/EXAMPLES.md)
 
+## Nautobot App Template
+If you are building Nautobot extensions, see [docs/nautobot_app_template.md](docs/nautobot_app_template.md) for
+instructions on generating a project using the official Nautobot cookiecutter template.
+
 <br />
 
 
